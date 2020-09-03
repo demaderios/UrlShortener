@@ -2,7 +2,7 @@
 using Microsoft.AspNetCore.ApiAuthorization.IdentityServer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
-using UrlShortener.UI.Models;
+using UrlShortener.Infrastructure.Identity;
 
 namespace UrlShortener.Infrastructure.Persistence
 {
